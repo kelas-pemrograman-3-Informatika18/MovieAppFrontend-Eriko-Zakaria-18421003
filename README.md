@@ -1,4 +1,4 @@
-# Quasar App (apotikmaju)
+# Quasar App (movieapp)
 
 A Quasar Framework app
 
